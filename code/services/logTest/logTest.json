@@ -1,0 +1,12 @@
+{
+    "current_version": 26,
+    "dependencies": "clearblade,log",
+    "logging_enabled": "true",
+    "name": "logTest",
+    "params": [
+        "bloop"
+    ],
+    "permissions": {},
+    "run_user": "",
+    "source": "logTest.js"
+}

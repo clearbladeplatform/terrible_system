@@ -1,0 +1,12 @@
+{
+    "columns": [
+        {
+            "ColumnName": "testcolumn",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ],
+    "permissions": {
+        "Authenticated": 15
+    }
+}

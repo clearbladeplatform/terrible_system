@@ -1,0 +1,12 @@
+{
+    "current_version": 20,
+    "dependencies": "clearblade,log",
+    "logging_enabled": "true",
+    "name": "otherLogTest",
+    "params": [
+        "bloop"
+    ],
+    "permissions": {},
+    "run_user": "",
+    "source": "otherLogTest.js"
+}

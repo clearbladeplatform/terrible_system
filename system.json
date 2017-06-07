@@ -1,0 +1,10 @@
+{
+    "auth": true,
+    "description": "",
+    "edge_sync": {},
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "terrible system",
+    "platform_url": "https://platform.clearblade.com",
+    "system_key": "8a8b89fa0ad2d6c7c689adc7cd12",
+    "system_secret": "8A8B89FA0AB8C9C284B693C9BBA201"
+}
